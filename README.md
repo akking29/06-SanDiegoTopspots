@@ -1,1 +1,1 @@
-# 06-SanDiegoTopspots-ng-
+Angular San Diego Top Spots
